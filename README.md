@@ -4,7 +4,7 @@
 ## Look for the files below for your information
 1. flyer_html_code.txt (This has the code for the ASL Flyer
 2. [Here are video instructions if you need it](https://3cmediasolutions.org/privid/396143?key=661f1995e32669536d334a849f3fb31ef4723d73)
-3. Comming Soon
+3. Coming Soon
 
 # Instructions
 Thank you for your willingness to put this flyer into your course.  Letting students know about our degrees will go a long way to increasing our graduation rates and growing the program.  This information will be helpful to students to know that they can plan a career in ASL and/or interpreting.  As more students complete the program then we will be able to grow our reputation as an excellent place to learn ASL
