@@ -36,7 +36,7 @@ Right now I only have one page loaded up here called “[`flyer_html_code.txt`](
 
 ![add_a_page_step_5](https://s3-us-west-1.amazonaws.com/files.3cmedia/u_2657/17966/add_a_page_step_5.png)
  
-## Publish and announce the page is there for studnet to know about it
+## Publish and announce the page is there for students to know about it
 ### Let me know if you need help downloading this information, or putting it into canvas
 
 
