@@ -7,7 +7,7 @@
 
 Thank you for your willingness to put this flyer into your course.  Letting students know about our degrees will go a long way to increasing our graduation rates and growing the program.  This information will be helpful to students to know that they can plan a career in ASL and/or interpreting.  As more students complete the program then we will be able to grow our reputation as an excellent place to learn ASL
 
-Right now I only have one page loaded up here called “[`flyer_html_code.txt`](#flyer_html_code.txt” . You can open this file and just copy and paste the code into your canvas page and it will work.  Please note this document and the HTML code has been written to be compliant with ADA and to work on all canvas courses.  While it may be tempting to edit the page, please refrain from edits to ensure accessibility compliance.
+Right now I only have one page loaded up here called “[`flyer_html_code.txt`](https://github.com/danaarazi/ASL-level1/blob/master/flyer_html_code.txt)” . You can open this file and just copy and paste the code into your canvas page and it will work.  Please note this document and the HTML code has been written to be compliant with ADA and to work on all canvas courses.  While it may be tempting to edit the page, please refrain from edits to ensure accessibility compliance.
 
 #I have created a canvas page for you and tried to make adding the page as simple as possible.  
 
