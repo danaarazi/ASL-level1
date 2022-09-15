@@ -2,7 +2,7 @@
 ## Scroll Down and Keep Reading
 # Use This to Grab HTML Code for your Canvas Course
 ## Look for the files below for your information
-1. flyer_html_code.txt (This has the code for the ASL Flyer
+1.  [`flyer_html_code.txt (This has the code for the ASL Flyer)`](https://github.com/danaarazi/ASL-level1/blob/master/flyer_html_code.txt)
 2. [Here are video instructions if you need it](https://3cmediasolutions.org/privid/396143?key=661f1995e32669536d334a849f3fb31ef4723d73)
 3. Coming Soon
 
