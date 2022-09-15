@@ -29,6 +29,9 @@ Right now I only have one page loaded up here called “[`flyer_html_code.txt`](
  
 ![add_a_page_step_4](https://s3-us-west-1.amazonaws.com/files.3cmedia/u_2657/17965/add_a_page_step_4.png)
 
+## Copy the code from this site by going to the [`flyer_html_code.txt`](https://github.com/danaarazi/ASL-level1/blob/master/flyer_html_code.txt) 
+![add_a_page_step_5](https://s3-us-west-1.amazonaws.com/files.3cmedia/u_2657/17969/add_a_page_step_6.png)
+
 ## Insert your code here by just pasting in the code I gave you above.  
 
 ![add_a_page_step_5](https://s3-us-west-1.amazonaws.com/files.3cmedia/u_2657/17966/add_a_page_step_5.png)
