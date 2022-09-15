@@ -1,0 +1,10 @@
+<h2 style="text-align: center;">AMERICAN SIGN LANGUAGE&nbsp;</h2>
+<p style="text-align: center;">Rio Hondo Offers 2 American Sign Language Degrees and 1 Certificate.</p>
+<h2>Degrees and Certificate:</h2>
+<p>Take this opportunity to visit the Pathway Page at Rio Hondo for more information.</p>
+<ul>
+    <li><a href="https://pathways.riohondo.edu/program/american-sign-language-deaf-studies-aa/" target="_blank" rel="noopener">American Sign Language/Deaf Studies AA</a></li>
+    <li><a href="https://pathways.riohondo.edu/program/american-sign-language-foundations-of-interpreting-aa/" target="_blank" rel="noopener">American Sign Language/ Foundations of Interpreting AA</a></li>
+    <li><a href="https://pathways.riohondo.edu/program/american-sign-language-coa/" target="_blank" rel="noopener">American Sign Language Certificate Of Achievement</a></li>
+</ul>
+<p><img src="https://s3-us-west-1.amazonaws.com/files.3cmedia/u_2657/17961/_ASL_Degree_Flyer.jpg" alt="Flyer Describing Degrees and Certificates For ASL. Links and text found above" width="588" height="722" /></p>
