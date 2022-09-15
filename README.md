@@ -35,5 +35,4 @@ Right now I only have one page loaded up here called “[`flyer_html_code.txt`](
  
 Let me know if you need help downloading this information, or putting it into canvas
 
-# Here are video instructions incase you need it 
 
