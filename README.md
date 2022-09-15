@@ -1,5 +1,5 @@
 # ASL Instructor Follow These Instructions
-## Scroll Down and Keep reading
+## Scroll Down and Keep Reading
 # Use This to Grab HTML Code for your Canvas Course
 ## Look for the files below for your information
 1. flyer_html_code.txt (This has the code for the ASL Flyer
